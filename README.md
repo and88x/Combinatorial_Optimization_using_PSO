@@ -15,7 +15,7 @@ Andres Fernando Garcia
     height="100%" 
     width="100%"/>
 
-<button id="close-image">
+<button id="close-image" style="background-color:red; border-color:blue; color:white">
 
 <img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450">
 
