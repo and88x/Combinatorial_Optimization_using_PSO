@@ -4,8 +4,8 @@ Andres Fernando Garcia
 6/14/2021
 
 <img src="./imgs/rescue.jpg"
-     height="80%" 
-     width="80%"/>
+     height="75%" 
+     width="75%"/>
 
 ## Project details
 
