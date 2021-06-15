@@ -16,14 +16,13 @@ Andres Fernando Garcia
     height="80%" 
     width="80%"/>
 
-<button type="button">
-
-Click Me\!
-
-</button>
+<img src="https://render.githubusercontent.com/render/math?math=argmin_{c_1,c_2,c_3} \{ \sum_{i=1}^{n}min(||x_i-c_1||,||x_i-c_2||,||x_i-c_3||) \}"
+    style="background-color:#CCD1D6"
+    height="80%" 
+    width="80%"/>
 
 \[
-C(725,3)=\frac{725!}{3!(725-3)}=63,250,450
+argmin_{c_1,c_2,c_3} \{ \sum_{i=1}^{n}min(||x_i-c_1||,||x_i-c_2||,||x_i-c_3||) \}
 \] \#\# Results
 
 <img src="./imgs/animation.gif"
