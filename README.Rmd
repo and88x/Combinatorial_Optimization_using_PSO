@@ -1,0 +1,33 @@
+---
+title: "Combinatorial Optimization using PSO"
+author: "Andres Fernando Garcia"
+date: "6/14/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<img src="./imgs/rescue.jpg"
+     height="80%" 
+     width="80%"/>
+     
+## Project details
+
+```{r fig.align='center', fig.height=6}
+img <- imager::load.image("./imgs/Capture.JPG")
+plot(img, axes = FALSE, main="Location of rescue ships")
+```
+
+<img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450">
+
+
+$$
+C(725,3)=\frac{725!}{3!(725-3)}=63,250,450
+$$
+## Results
+
+<img src="./imgs/animation.gif"
+     height="110%" 
+     width="110%"/>
