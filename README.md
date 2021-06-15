@@ -12,14 +12,9 @@ Andres Fernando Garcia
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
 <img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450"
-    height="100%" 
-    width="100%"/>
-
-<button id="close-image" style="background-color:red; border-color:blue; color:white">
-
-<img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450">
-
-</button>
+    style="background-color:#CCD1D6"
+    height="80%" 
+    width="80%"/>
 
 \[
 C(725,3)=\frac{725!}{3!(725-3)}=63,250,450
