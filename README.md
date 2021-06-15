@@ -11,24 +11,15 @@ Andres Fernando Garcia
 
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
-<body style="background-color:red;">
-
-<h1>
-
-Products
-
-</h1>
-
-<p>
-
-We have developed more than 10 products till now.
-
-</p>
-
 <img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450"
-style="border:5px solid black">
+    height="100%" 
+    width="100%"/>
 
-</body>
+<button id="close-image">
+
+<img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450">
+
+</button>
 
 \[
 C(725,3)=\frac{725!}{3!(725-3)}=63,250,450
