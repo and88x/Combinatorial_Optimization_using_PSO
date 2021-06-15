@@ -14,6 +14,22 @@ Andres Fernando Garcia
 <img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450"
 style="border:5px solid black">
 
+<body style="background-color:white;">
+
+<h1>
+
+Products
+
+</h1>
+
+<p>
+
+We have developed more than 10 products till now.
+
+</p>
+
+</body>
+
 \[
 C(725,3)=\frac{725!}{3!(725-3)}=63,250,450
 \] \#\# Results
