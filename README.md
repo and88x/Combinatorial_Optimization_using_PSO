@@ -9,7 +9,7 @@ Andres Fernando Garcia
 
 ## Project details
 
-<img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
+<img src="README_files/figure-gfm/unnamed-chunk-1-1.png" width="75%" style="display: block; margin: auto;" />
 
 <img src="https://render.githubusercontent.com/render/math?math=C(725,3)=\frac{725!}{3!(725-3)}=63,250,450"
     style="background-color:#CCD1D6"
